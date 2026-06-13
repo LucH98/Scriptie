@@ -1,0 +1,13 @@
+# Ignore data files
+*.csv
+*.xlsx
+*.json
+
+# Ignore model files
+*.pkl
+
+# Ignore specific folders (optional)
+dataset/
+rf_resultaten/
+xgb_resultaten/
+sarimax/
