@@ -1,0 +1,8 @@
+﻿This github contains 5 notebooks: EDA, Cleaning, Exploration, Model, Reproduction and Evaluation. 
+
+ Data used in the notebooks EDA, cleaning, exploration and model will not be shared as it's not aggregated data. 
+ Data used in the Reproduction and Evaluation will be used, so that all results from the thesis can be found and reproduced. 
+ 
+ Notebook Model contains code and methodology about the model development, which will be used an evaluated in the Evaluation notebook.
+ Notebook Evaluation contains code and results from all evaluation methods which are discussed in the thesis in section 4 (results) and 5 (discussion). Data (and models) used in this notebook will be shared.
+ Notebook reproduction contains code and a link to a kaggle dataset. This notebook is a reproduction with a public synthetic dataset of the cleaning, preprocessing, feature engineering and model development. The data and model produced in this notebook are evaluated in the notebook Evaluation. 
