@@ -1,4 +1,3 @@
 # Ignore data files
 *.csv
-*.xlsx
-*.json
+*.pkl
